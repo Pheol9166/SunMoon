@@ -19,7 +19,6 @@ class Emulator():
                 break
             else:
                 print("입력이 잘못되었습니다. 다시 시도해주세요.")
-                break
 
 sunmoon = SunMoon("해와 달이 된 오누이 Darkside")
 emulator = Emulator(sunmoon)
